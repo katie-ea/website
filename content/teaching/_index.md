@@ -11,10 +11,11 @@ cascade:
 
 sections:
   - block: markdown
-    id: teaching-nd
+    id: teaching
     content:
-      title: Teaching at Notre Dame
+      title: Teaching
       text: |-
+        **Teaching at Notre Dame**
         * Fall 2025: Instructor of Record for Principles for Calculus  
         * Summer 2025: Instructor of Record and Course Chair for Calculus II  
         * Fall 2024: Head TA for Principles for Calculus  
@@ -22,17 +23,11 @@ sections:
         * Fall 2023: Head TA for Calculus II  
         * Spring 2023: TA for Calculus II  
         * Fall 2022: TA for Calculus III  
-  - block: markdown
-    id: teaching-vassar
-    content:
-      title: Teaching at Vassar College
-      text: |-
+
+        **Teaching at Vassar College**
         * Fall 2018-Spring 2020: TA for CMPU224: Computer Organization  
         * Fall 2017-Spring 2018: TA for CMPU101: Problem Solving and Abstraction
-  - block: markdown
-    id: teaching-workshops
-    content:
-      title: Teaching Workshop Programs
-      text: |-
+
+        **Teaching Workshop Programs**
         * [Effective Online Pedagogy Badge](https://badgr.com/public/assertions/I0ONbapmSqCJANzgxEgjiQ?identity__email=kellmana%40nd.edu) 
 ---
