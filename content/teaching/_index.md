@@ -13,7 +13,6 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching
       text: |-
         **Teaching at Notre Dame**
         * Fall 2025: Instructor of Record for Principles for Calculus  
