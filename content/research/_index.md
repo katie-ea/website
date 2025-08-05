@@ -9,6 +9,4 @@ sections:
     filters:
       folders:
         - event
-    design:
-      view: list
 ---
