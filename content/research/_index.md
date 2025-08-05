@@ -6,12 +6,11 @@ sections:
   - block: markdown
     content:
       text: |- 
-      **Recent Talks & Slides** 
-      -|
+        **Recent Talks & Slides** 
   - block: collection
     id: talks
     title: 'Recent Talks & Slides'
     filters:
       folders:
-        - event
+        - research
 ---
