@@ -29,6 +29,4 @@ sections:
 
         **Teaching Workshop Programs**
         * [Effective Online Pedagogy Badge](https://badgr.com/public/assertions/I0ONbapmSqCJANzgxEgjiQ?identity__email=kellmana%40nd.edu) 
-    design:
-      css_class: 'max-w-fit'
 ---
