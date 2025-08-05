@@ -5,8 +5,7 @@ type: landing
 sections:
   - block: collection
     id: talks
-    title: Talks
-    text: 'Recent Talks'
+    title: 'Recent Talks & Slides'
     filters:
       folders:
         - event
